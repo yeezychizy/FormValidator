@@ -84,10 +84,10 @@ h2 {
 
 .form button {
     *cursor: pointer;
-    background-color: rgba(0, 255, 38, 0.875);
-    border: 2px solid rgb(4, 61, 247); 
+    background-color: rgba(0, 195, 255, 0.875);
+    border: 2px solid rgb(229, 229, 229); 
     border-radius: 4px;
-    color: rgb(227, 36, 36);
+    color: rgb(8, 144, 248);
     display: block;
     font-size: 16px;
     padding: 10px;
